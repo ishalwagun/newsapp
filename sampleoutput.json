@@ -1,0 +1,136 @@
+{
+  "status": "ok",
+  "totalResults": 10,
+  "articles": [
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Teen makes skateboarding history with 720 trick",
+      "description": "Australian skateboarder Arisa Trew has become the first woman to land a 720 in a competition.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-66038745",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/7BFE/production/_130224713_p0fxp9t4.jpg",
+      "publishedAt": "2023-06-28T07:07:14.0579085Z",
+      "content": "Australian skateboarder Arisa Trew has become the first woman to land a 720 - a trick which involves making two full rotations in the air, in a competition.\r\nThe 13-year-old pulled off the move in fr… [+214 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ukraine war: President Zelensky decries 'act of terror' as Russia missile strike kills eight in Kramatorsk",
+      "description": "A restaurant and shopping area were hit in Tuesday's strike, which is close to Russian-occupied areas.",
+      "url": "http://www.bbc.co.uk/news/live/world-europe-66026851",
+      "urlToImage": "https://m.files.bbci.co.uk/modules/bbc-morph-news-waf-page-meta/5.3.0/bbc_news_logo.png",
+      "publishedAt": "2023-06-28T06:37:21.2300403Z",
+      "content": "The failed weekend mutiny in Russia is likely to have repercussions for Africa, where Wagner has several thousand fighters based as well as lucrative business interests linked to Yevgeny Prigozhin.\r\n… [+1172 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Ukraine war: Countdown has begun on Putin's end, say Kyiv officials",
+      "description": "Senior Ukraine officials tell the BBC Russia's leader could not survive a catastrophic loss of authority.",
+      "url": "http://www.bbc.co.uk/news/world-europe-66037913",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EE04/production/_130223906_5c09f4c5c445772f381fb5364a23b4e07b7ef5dc.jpg",
+      "publishedAt": "2023-06-28T04:07:19.9084686Z",
+      "content": "Attention in the Ukrainian capital has been fixed squarely on the mutiny of the Wagner Group, its leader Yevgeny Prigozhin, and its consequences for Vladimir Putin and the conduct of the war in Ukrai… [+5608 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "South Koreans become a year younger under new age-counting law",
+      "description": "Seoul scraps a centuries-old age-counting system in favour of international standards.",
+      "url": "http://www.bbc.co.uk/news/world-asia-66028606",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/1316B/production/_124178187_gettyimages-637681896.jpg",
+      "publishedAt": "2023-06-28T02:22:15.4556921Z",
+      "content": "South Koreans have become a year or two younger as a new law aligns the nation's age-counting system with international standards.\r\nThe law scraps a centuries-old system that deems South Koreans one … [+1184 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Superman: Legacy finds its Superman and Lois Lane",
+      "description": "Actors David Corenswet and Rachel Brosnahan have been picked to star in the upcoming film.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-66038503",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/A5CA/production/_130224424_gettyimages-1202137220.jpg",
+      "publishedAt": "2023-06-28T02:07:17.7358905Z",
+      "content": "Actors David Corenswet and Rachel Brosnahan have been cast to play Superman and Lois Lane in the upcoming film Superman: Legacy.\r\nThe new casting comes after British actor Henry Cavill was dropped fr… [+1506 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "French police kill teen who refused traffic stop",
+      "description": "A 17-year-old is shot dead near Paris in broad daylight after failing to obey traffic police.",
+      "url": "http://www.bbc.co.uk/news/world-europe-66038227",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/3036/production/_130224321_microsoftteams-image-3.png",
+      "publishedAt": "2023-06-28T02:07:17.0485616Z",
+      "content": "French police shot dead a 17-year-old who failed to stop when ordered to by traffic police outside Paris on Tuesday.\r\nVideo circulating on social media shows a police officer pointing a gun at the dr… [+2398 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Van life is far from glamorous on LA's streets",
+      "description": "\"Van lords\" profit from LA's housing crisis by renting motorhomes to those living on the edge, critics say.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-66023691",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/18449/production/_130210499_image1.jpg",
+      "publishedAt": "2023-06-28T02:07:14.3929725Z",
+      "content": "Just below the swanky homes in the Hollywood Hills and across from the Warner Bros. Studio in Burbank, California, dozens of motorhomes and camper vans line Forest Lawn Drive. \r\nIt's one of many make… [+5684 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Plan to slice New York pizza oven emissions by 75% causes backlash",
+      "description": "The mayor weighed in over pushback on plans to reduce emissions from wood and coal-fired pizza ovens.",
+      "url": "http://www.bbc.co.uk/news/world-us-canada-66027038",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/0E2F/production/_130213630_gettyimages-1425739291.jpg",
+      "publishedAt": "2023-06-27T22:52:19.9876466Z",
+      "content": "A proposal to slice emissions from coal and wood-burning pizza ovens in New York City by 75% has left a bad taste in the mouths of some locals. \r\nA rule change proposed on Friday would require pizzer… [+4524 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Belarus leader welcomes Wagner boss Prigozhin into exile",
+      "description": "Yevgeny Prigozhin, who led a Russian mutiny, arrives in Belarus and his men are offered a military base.",
+      "url": "http://www.bbc.co.uk/news/world-europe-66029636",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/34DC/production/_130223531_69988bfebd0db826098c05187a707f63479c26f20_229_4437_24961000x563.jpg",
+      "publishedAt": "2023-06-27T21:07:18.3918707Z",
+      "content": "The leader of Russia's 24-hour mutiny, Yevgeny Prigozhin, has arrived in Belarus, three days after his Wagner mercenary group's rebellion came to an end 200km (125 miles) south of Moscow.\r\n\"Yes, inde… [+5142 chars]"
+    },
+    {
+      "source": {
+        "id": "bbc-news",
+        "name": "BBC News"
+      },
+      "author": "BBC News",
+      "title": "Julian Sands: British actor's body identified after long search on mountain",
+      "description": "The 65-year-old went missing in mountains north of Los Angeles after hiking during bad weather.",
+      "url": "http://www.bbc.co.uk/news/entertainment-arts-64328590",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/138FD/production/_128352108_jsgettyimages-498294494.jpg",
+      "publishedAt": "2023-06-27T20:22:21.8484208Z",
+      "content": "Human remains found in mountains in California have been confirmed to be those of British actor Julian Sands, who went missing on a hike in January.\r\nWalkers found the remains on Saturday, police sai… [+3278 chars]"
+    }
+  ]
+}
